@@ -1,5 +1,5 @@
 # Banco-de-Dados
-Este repositório contém a infraestrutura "Plug &amp; Play" para um banco de dados PostgreSQL com suporte a embeddings e busca semântica usando a extensão pgvector. É o ponto de partida para projetos que utilizam RAG (Retrieval-Augmented Generation) com Inteligência Artificial.
+Este repositório contém a infraestrutura "um banco de dados PostgreSQL com suporte a embeddings e busca semântica usando a extensão pgvector. É o ponto de partida para projetos que utilizam RAG com IA.
 
 Aqui está uma versão reescrita do seu guia. O objetivo foi melhorar a escaneabilidade, organizar os blocos de código de forma mais limpa e dar um tom mais profissional e moderno ao README, mantendo toda a parte técnica intacta.
 
